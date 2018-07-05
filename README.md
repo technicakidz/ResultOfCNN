@@ -6,12 +6,12 @@ CNNを用いた人物識別実験結果まとめ
 
 ## why
 
-•accuracy graph
-•loss graph
-•console memo
+•accuracy graph  
+•loss graph  
+•console memo  
 の記録のため．
 
-*最適化手法(epoch100~1000)*  
+**最適化手法(epoch100~1000)**  
 1. SGD
 2. Adagrad
 3. Adam
